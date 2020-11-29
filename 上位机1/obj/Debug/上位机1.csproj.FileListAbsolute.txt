@@ -1,0 +1,9 @@
+C:\Users\黄的电脑\Source\Repos\上位机1\上位机1\bin\Debug\上位机1.exe.config
+C:\Users\黄的电脑\Source\Repos\上位机1\上位机1\bin\Debug\上位机1.exe
+C:\Users\黄的电脑\Source\Repos\上位机1\上位机1\bin\Debug\上位机1.pdb
+C:\Users\黄的电脑\Source\Repos\上位机1\上位机1\obj\Debug\上位机1.csprojAssemblyReference.cache
+C:\Users\黄的电脑\Source\Repos\上位机1\上位机1\obj\Debug\上位机1.Form1.resources
+C:\Users\黄的电脑\Source\Repos\上位机1\上位机1\obj\Debug\上位机1.Properties.Resources.resources
+C:\Users\黄的电脑\Source\Repos\上位机1\上位机1\obj\Debug\上位机1.csproj.GenerateResource.cache
+C:\Users\黄的电脑\Source\Repos\上位机1\上位机1\obj\Debug\上位机1.exe
+C:\Users\黄的电脑\Source\Repos\上位机1\上位机1\obj\Debug\上位机1.pdb
